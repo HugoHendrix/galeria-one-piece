@@ -1,6 +1,8 @@
 
 # One Piece Infinite Scroll Gallery
 
+> **Este projeto foi incorporado ao [One Piece Codex](https://hugohendrix.github.io/one-piece-codex/)** ([código](https://github.com/HugoHendrix/one-piece-codex)), que reúne esta landing page, a galeria com rolagem infinita e a lista de personagens em React. Este repositório fica como registro do original.
+
 Uma galeria com rolagem infinita inspirada em **One Piece**, proporcionando uma experiência visual contínua e interativa.
 
 ## 🖥️ Tecnologias Utilizadas
